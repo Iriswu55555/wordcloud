@@ -47,20 +47,21 @@ count = df['required_skills'].str.split(',').explode().value_counts()
 print(count)
 count.to_csv('counting_reuired_skills_Tableau.csv')
 
+```
 
-# Example 
+## Example 
 A sample output is :
 ![alt text](https://github.com/Iriswu55555/wordcloud/blob/9ec83c886ae4e0de9670b67fab0aff6f7ab250d8/Picture1.png)
 
 
-# Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-# License
+## License
 
 The wordcloud library is MIT licenced, but contains DroidSansMono.ttf, a true type font by Google, that is apache licensed. The font is by no means integral, and any other font can be used by setting the font_path variable when creating a WordCloud object.
 
