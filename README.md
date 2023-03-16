@@ -1,4 +1,5 @@
-![alt text]([http://url/to/img.png](https://github.com/Iriswu55555/wordcloud/blob/main/Data_Analyst_skills.png))
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Iriswu55555/wordcloud/blob/main/Data_Analyst_skills.png))
+
 
 
 # Core skills for Data-related job
