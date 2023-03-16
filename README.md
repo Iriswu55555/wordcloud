@@ -51,6 +51,7 @@ count.to_csv('counting_reuired_skills_Tableau.csv')
 
 ## Example 
 A sample output is :
+
 ![alt text](https://github.com/Iriswu55555/wordcloud/blob/9ec83c886ae4e0de9670b67fab0aff6f7ab250d8/Picture1.png)
 
 
@@ -58,7 +59,6 @@ A sample output is :
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
-
 Please make sure to update tests as appropriate.
 
 ## License
