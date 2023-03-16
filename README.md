@@ -1,4 +1,4 @@
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Iriswu55555/wordcloud/blob/main/Data_Analyst_skills.png))
+![alt text](https://github.com/Iriswu55555/wordcloud/blob/a791973b838cef4d1289e61746d08b8ec3b273e9/Data_Analyst_skills.png)
 
 
 
