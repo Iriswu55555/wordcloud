@@ -94,3 +94,17 @@ Please make sure to update tests as appropriate.
 
 The wordcloud library is MIT licenced, but contains DroidSansMono.ttf, a true type font by Google, that is apache licensed. The font is by no means integral, and any other font can be used by setting the font_path variable when creating a WordCloud object.
 
+# Reflection
+*Standard*
+
+For this project, I decided to follow the Data Documentation Initiative (DDI), which is an emerging metadata standard for the social sciences for the following reasons:
+1. Comprehensive metadata coverage: DDI provides a comprehensive set of metadata elements that cover various aspects of social science research data, including study design, data collection methods, variables, data processing procedures, and data access and use conditions. Using DDI can help me ensure that the data is well-documented and structured, which can facilitate data sharing, discovery, and reuse.
+2. Interoperability and standardization: DDI is an international standard that is widely used and recognized by the social science research community. Using DDI can help ensure that my data is interoperable with other datasets and tools, and can be easily shared and integrated into larger research projects.
+3. Data preservation and archiving: DDI is designed to support long-term data preservation and archiving, which is important for ensuring the longevity and accessibility of social science research data. Using DDI can help to ensure that your data is well-documented and structured for long-term preservation and reuse.
+
+*Challenge*
+
+Creating a README file for a dataset can be a daunting task as it requires presenting the information in a clear and concise manner while also contextualizing the data. Although I have experience in creating Github repositories, I have yet to include a README file. To effectively create a README file, it is crucial to begin by organizing the information and ensuring that the data documentation is complete and accurate, which can be done by following instructions provided by professors or guidelines such as the DDI standard. Reviewing existing examples of README files for similar datasets can also be helpful. Moreover, to make the data easily accessible and visible to potential users, it is important to keep the README file up-to-date and ensure that it is readily available along with the dataset.
+
+
+
