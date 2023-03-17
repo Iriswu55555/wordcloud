@@ -16,31 +16,32 @@ Word Cloud is a data visualization technique used for representing text data in 
 
 # Metadata Description
 
-Title: Wordcloud of Frequently Used Words in Job Descriptions
+* Title: Wordcloud of Frequently Used Words in Job Descriptions
 
-Description: This wordcloud visualization presents the most frequently used words in a text dataset obtained from job descriptions on LinkedIn.com. The text data was pre-processed by removing stop words, stemming, and removing punctuation and numbers.
+* Description: This wordcloud visualization presents the most frequently used words in a text dataset obtained from job descriptions on LinkedIn.com. The text data was pre-processed by removing stop words, stemming, and removing punctuation and numbers.
 
-Keywords: Wordcloud, Text Data, Visualization, Pre-processing, Job Descriptions, LinkedIn
+* Keywords: Wordcloud, Text Data, Visualization, Pre-processing, Job Descriptions, LinkedIn
 
-Data Source: LinkedIn.com job descriptions
+* Data Source: LinkedIn.com job descriptions
 
-Data Collection Date: March 8th, 2023
+* Data Collection Date: March 8th, 2023
 
-Data Pre-processing Steps: The following pre-processing steps were applied to the text data: stop word removal, stemming, and punctuation and number removal.
+* Data Pre-processing Steps: The following pre-processing steps were applied to the text data: stop word removal, stemming, and punctuation and number removal.
 
-Wordcloud Parameters:
+* Wordcloud Parameters:
 
-Background_color: The default background color is 'black'.
-Max_font_size: The maximum font size for the largest word is specified. If not set, the height of the image is used.
-Max_words: The maximum number of words is set to 200 by default.
-Stopwords: The build-in stopwords list is used to filter out words.
-Software Used: Python was used to generate the wordcloud visualization.
+1. Background_color: The default background color is 'white'.
+2. Max_font_size: The maximum font size for the largest word is specified. If not set, the height of the image is used.
+3. Max_words: The maximum number of words is set to 200 by default.
+4. Stopwords: The build-in stopwords list is used to filter out words.
 
-Metadata Standard: The metadata for this wordcloud visualization was created using the Data Documentation Initiative (DDI) metadata standard, version 3.1.
+* Software Used: Python was used to generate the wordcloud visualization.
 
-Metadata Creator: The metadata was created by Yu-Chen Wu on March 8th, 2023.
+* Metadata Standard: The metadata for this wordcloud visualization was created using the Data Documentation Initiative (DDI) metadata standard, version 3.1.
 
-Data Access: Access to the data used to generate this wordcloud visualization is available at https://github.com/Iriswu55555/wordcloud.git. The data may require permission from the data owner or repository.
+* Metadata Creator: The metadata was created by Yu-Chen Wu on March 8th, 2023.
+
+* Data Access: Access to the data used to generate this wordcloud visualization is available at https://github.com/Iriswu55555/wordcloud.git. The data may require permission from the data owner or repository.
 
 For generating word cloud in Python, modules needed are – matplotlib, pandas and wordcloud. To install these packages, run the following commands :
 
